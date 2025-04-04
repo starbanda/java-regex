@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d30df666-72ab-4857-b06b-c3976dd4ab9b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CapitalizedWordExtractor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CreditCardValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DateExtractor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EmailExtractor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExtractCurrencyValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExtractLanguages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FindRepeatingWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HexColorValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IPAddressValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LicensePlateValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkExtractor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SpaceReplacer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UsernameValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ValidateSSN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/CapitalizedWordExtractor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/ListManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/ListManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
