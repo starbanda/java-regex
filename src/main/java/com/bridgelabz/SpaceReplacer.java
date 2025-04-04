@@ -1,3 +1,5 @@
+package com.bridgelabz;
+
 public class SpaceReplacer {
     public static String replaceMultipleSpaces(String text) {
         // Regex to match multiple spaces
