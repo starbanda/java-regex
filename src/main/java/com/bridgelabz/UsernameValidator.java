@@ -1,3 +1,5 @@
+package com.bridgelabz;
+
 import java.util.regex.*;
 public class UsernameValidator {
     public static boolean isValidUsername(String username) {
